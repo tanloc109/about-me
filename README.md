@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Loc Pham</h1>
-<h3 align="center">A passionate frontend developer from Ho Chi Minh City</h3>
+<h3 align="center">A passionate Back-end developer from Ho Chi Minh City</h3>
 
 - 🌱 I’m currently learning **Spring, Spring-boot**
 

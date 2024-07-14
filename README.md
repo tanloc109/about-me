@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tan Loc Pham</h1>
 <h3 align="center">A fervent Back-end developer from Ho Chi Minh City, deeply committed to mastering Java Backend development.</h3>
 
-- 🌱 I’m currently learning **Spring MVC, Oracle DB, Microservices, Design Pattern, Mobile**
+- 🌱 I’m currently learning **Oracle DB, Microservices, Design Pattern, Mobile**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanloc109?tab=repositories](https://github.com/tanloc109?tab=repositories)
 
